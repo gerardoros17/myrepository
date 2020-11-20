@@ -317,6 +317,10 @@ public class VistaAccessi extends javax.swing.JDialog {
                 .addContainerGap())
         );
 
+        public String prova() {
+        	return "Prova";
+        }
+
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
