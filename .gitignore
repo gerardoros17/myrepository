@@ -1,0 +1,15 @@
+it/unibas/autostrada/Applicazione.java
+it/unibas/autostrada/controllo/ControlloAccessi.java
+it/unibas/autostrada/controllo/ControlloMenu.java
+it/unibas/autostrada/controllo/ControlloPrincipale.java
+it/unibas/autostrada/modello/Accesso.java
+it/unibas/autostrada/modello/Archivio.java
+it/unibas/autostrada/modello/Casello.java
+it/unibas/autostrada/modello/ComparatoreCaselli.java
+it/unibas/autostrada/modello/Costanti.java
+it/unibas/autostrada/modello/Modello.java
+it/unibas/autostrada/persistenza/DAOArchivioMock.java
+it/unibas/autostrada/persistenza/DAOException.java
+it/unibas/autostrada/persistenza/IDAOArchivio.java
+it/unibas/autostrada/vista/ModelloTabellaAccessi.java
+it/unibas/autostrada/vista/ModelloTabellaCaselli.java
